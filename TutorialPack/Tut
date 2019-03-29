@@ -1,0 +1,17 @@
+Angular Tutoial
+
+Angular is a Javascript Library/framework tjat allows you to create a reactive webpage application and a Single Page Application.
+
+
+
+npm install -g  @angular/cli
+
+ng new {project}
+cd new {project}
+
+ng serve
+
+
+http://inorganik.github.io/countUp.js/
+
+Angular 2 was realeased in 2016
