@@ -32,3 +32,8 @@ Now to install Bootsrap
 npm install --save bootstrap@3
 
 to add css go to angular.json on the main/root Folder.
+
+to use any form feature like Input type text, add the import command to your app module, this will make angular understand that it 
+requires form Module before making use of input form field.
+
+Type Script is a superset to Javascript. It offers more feature than Javascript, Strongly typed, such as classes
