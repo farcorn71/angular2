@@ -1,6 +1,6 @@
 Angular Tutoial
 
-Angular is a Javascript Library/framework tjat allows you to create a reactive webpage application and a Single Page Application.
+Angular is a Javascript Library/framework that allows you to create a reactive webpage application and a Single Page Application.
 
 
 
@@ -15,3 +15,20 @@ ng serve
 http://inorganik.github.io/countUp.js/
 
 Angular 2 was realeased in 2016
+Folder Structure
+e2e - means End to End testing
+
+componets have html file, typescript file and others. the Typescript file 
+does the whole job of the component
+
+
+Type Script
+Offer more than vanilla Javascript, It allows to write much more robust Javascript, 
+it is compiled to Javascript for the Javascript to understand it.
+
+
+Now to install Bootsrap
+
+npm install --save bootstrap@3
+
+to add css go to angular.json on the main/root Folder.
