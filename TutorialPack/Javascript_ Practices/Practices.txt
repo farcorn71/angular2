@@ -1,0 +1,7 @@
+
+Module: We can use functions and closure to make modules. A module is a function or object that presents an interface
+but that hides its state and implementation. By using functions to produce modules, we can almost completely
+eliminate our use of global variables, thereby mitigating one of JavaScript's worst features.
+
+In classical languages, objects are instances of classes, and a class can inherit from another class. JavaScript is
+a prototypal language, which means that objects inherit directly from other objects.

@@ -1,0 +1,2 @@
+New features in ES6 are: Object Literals, Blocking Scope, Let const  for ...of loop, Spreading and rest.  
+use strict - for enforcing variable declaration, strict mode, you cannot use undeclared variables
