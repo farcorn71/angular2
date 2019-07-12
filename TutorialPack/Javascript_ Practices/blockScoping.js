@@ -1,3 +1,4 @@
+'use strict'
 const updateProductID => function(){
 
     productId = 12;
