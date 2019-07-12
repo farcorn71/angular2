@@ -3,3 +3,7 @@ use strict - for enforcing variable declaration, strict mode, you cannot use und
 
 When using an arrow function, you will not be able to use *bind*, *call* and *apply*
 unlike ES5, es6 does not have access to the prototype when using arrow function 
+for default parameters, if we pass in "undefined" as an argument, javascript will take the specified value instead.
+
+Spread and rest.
+Rest works like sting generics in Java e.g string ...

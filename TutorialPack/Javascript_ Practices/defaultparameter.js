@@ -4,3 +4,5 @@ var getProductSellingPrice = function(costprice = 10, profit = 5){
 }
 
 console.log(getProductSellingPrice());
+
+console.log(getProductSellingPrice(undefined, 2));
