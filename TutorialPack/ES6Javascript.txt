@@ -7,3 +7,8 @@ for default parameters, if we pass in "undefined" as an argument, javascript wil
 
 Spread and rest.
 Rest works like sting generics in Java e.g string ...
+
+
+Destructuring: take out the elements of an array or an object.
+
+Interpolation can be used in template literals with symbol ${}
